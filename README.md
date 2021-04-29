@@ -16,7 +16,7 @@ The deadline for this app to go live is on May 9th, 2021.
 
 The target audience is daycare owners and the parents that use that daycare.
 
-#Architecture
+# Architecture
 ![DayCareArch](https://user-images.githubusercontent.com/7104330/116336843-3d9cdf00-a7a7-11eb-8e41-2e2935c76580.png)
 
 The system shall use Firebase for email/password authentication.
@@ -24,9 +24,15 @@ The system shall also use Firebase to save the status of whether the parent has 
 The system shall also use Firebase to process ongoing chats.
 The system shall use the Google Maps API to verify that checkin is valid by making sure Parent is checking in at the facility.
 
-#MileStones
+# Wire Frames
+![parent](https://user-images.githubusercontent.com/7104330/116493730-52dc4100-a86d-11eb-8c97-9c37ae6e72a7.PNG)
+![admin](https://user-images.githubusercontent.com/7104330/116493731-52dc4100-a86d-11eb-9ca0-fe9b4b7aebd8.PNG)
+![login](https://user-images.githubusercontent.com/7104330/116493732-52dc4100-a86d-11eb-9f19-ee23dd5dd213.PNG)
 
-4/27/2021 - Project plan, wireframes, architecture defined.
+
+# MileStones
+
+~~4/27/2021 - Project plan, wireframes, architecture defined.~~
 4/28/2021 - CSS/HTML program and components design in place.
 4/29/2021 - CSS/HTML program and componentn implementation.
 4/30/2021 - Firebase connection and collections setup.
