@@ -1,5 +1,5 @@
 # day_care_app
-This repo is day care app demo built as part of capstone project for javascript bootcamp.
+This repo is day care app demo built as part of project for javascript bootcamp.
 
 This app shall provide a feature to where a person can checkin to a day care and provide messaging with
 other parents (i.e. group chat) and teachers and the owner/admin.  The app shall also provide a feature
