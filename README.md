@@ -35,14 +35,14 @@ The system shall use the Google Maps API to verify that checkin is valid by maki
 * ~~4/27/2021 - Project plan, wireframes, architecture defined.~~
 * ~~4/28/2021 - CSS/HTML program and components design in place~~
 * ~~4/29/2021 - CSS/HTML program and componentn implementation.~~
-* 4/30/2021 - Firebase connection and collections setup.
+* ~~4/30/2021 - Firebase connection and collections setup.~~
 * ~~5/01/2021 - Implementation~~
 * ~~5/02/2021 - Implementation~~
 * ~~5/03/2021 - Implementation~~
-* 5/04/2021 - Implementation
-* 5/05/2021 - Implementation
-* 5/06/2021 - Test
-* 5/06/2021 - Test
-* 5/07/2021 - Test
+* 5/04/2021 - Complete page navigation
+* 5/05/2021 - Setup Firebase authentication and test - page should only naviage on authentication is ok.
+* 5/06/2021 - Setup Firebase test data and popuplate test data to admin and client page.
+* 5/06/2021 - Setup Redux - and integrate.
+* 5/07/2021 - Google maps API integration.
 * 5/08/2021 - Prep for deliver/presentation
 * 5/09/2021 - Delivery.
