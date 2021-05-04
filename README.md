@@ -33,12 +33,12 @@ The system shall use the Google Maps API to verify that checkin is valid by maki
 # MileStones
 
 * ~~4/27/2021 - Project plan, wireframes, architecture defined.~~
-* 4/28/2021 - CSS/HTML program and components design in place.
-* 4/29/2021 - CSS/HTML program and componentn implementation.
+* ~~4/28/2021 - CSS/HTML program and components design in place.~
+* ~~4/29/2021 - CSS/HTML program and componentn implementation.~
 * 4/30/2021 - Firebase connection and collections setup.
-* 5/01/2021 - Implementation
-* 5/02/2021 - Implementation
-* 5/03/2021 - Implementation
+* ~~5/01/2021 - Implementation~
+* ~~5/02/2021 - Implementation~
+* ~~5/03/2021 - Implementation~
 * 5/04/2021 - Implementation
 * 5/05/2021 - Implementation
 * 5/06/2021 - Test
