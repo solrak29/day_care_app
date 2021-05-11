@@ -52,7 +52,18 @@ export default function Admin() {
     })},[]);
 
   return (
-      <div class="admin">
+      <div className="admin">
+          <div className="dashboard">
+          <div className="sidebar">
+               <h1>Dashboard</h1>
+               <p>Students</p>
+               <p>Parents</p>
+               <p>Staff</p>
+               <h1>Messeging</h1>
+               <h1>Billing</h1>
+          </div>
+          <div className="checkedin">
+              <h1>Checked In Today</h1>
           <table>
               {columns.map((item) => (
                   <th>{item.headerName}</th>
@@ -79,6 +90,16 @@ export default function Admin() {
               ))}
             </tbody>
           </table>
+          </div>
+          <div className="absent">
+              <h1>Absent Today</h1>
+              <p>Absent</p>
+          </div>
+          <div className="schedule">
+              <h1>Schedule Today</h1>
+              <p>Schedule</p>
+          </div>
+          </div>
       </div>
   );
 }

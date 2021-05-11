@@ -1,7 +1,64 @@
 .admin {
     background-image: url(../assets/markus-spiske-yt5e_nZ7CZ8-unsplash.jpg);
     background-size: 100% 100%;
-    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.5;
+    border: grey solid;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    opacity: 1.0;
+    background-color: lightgray;
+}
+
+.sidebar h1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.sidebar p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 60px;
+}
+
+.checkedin {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightgray;
+}
+
+.absent {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightgray;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.schedule {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: lightgray;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 table {
