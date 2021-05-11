@@ -1,0 +1,103 @@
+
+.client {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 50%;
+    height: 100%;
+}
+
+.left-side {
+    /*background-color: darkgray;*/
+    width: 100vh;
+}
+
+.left-side p {
+    margin: 0;
+    margin-left: 10px;
+    color: gray;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.checkin-box {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(197, 230, 241);
+    height: 80px;
+    width: 175px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.checkin-box h1 {
+    margin-left: 10px;
+    margin-top: 29px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.checkin-box button {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+#check_in_button {
+    background-color: white;
+    color: purple;
+}
+
+.message {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(197, 230, 241);
+    height: 500px;
+    width: 400px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    /*background-color: blue;*/
+    width: 100vh;
+}
+
+.right-side p {
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.cal {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 200px;
+    background-color: rgb(197, 230, 241);
+}
+
+.events {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 100px;
+    background-color: rgb(197, 230, 241);
+}
+
+#map{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+#check_in_button:disabled {
+    color: green;
+}
