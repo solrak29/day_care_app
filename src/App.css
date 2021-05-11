@@ -1,6 +1,10 @@
 
 .banner {
-  background-color: blue;
+  background-color:white;
   height: 200px;
   width: 100%;
+  background-image: url("assets/koolkidzworld.webp");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
